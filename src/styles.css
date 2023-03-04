@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+input {
+  height: 30px;
+  text-align: center;
+  min-width: 250px;
+  border: 1px solid #000072;
+  border-radius: 4px;
+}

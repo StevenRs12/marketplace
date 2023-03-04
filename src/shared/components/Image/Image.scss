@@ -1,0 +1,9 @@
+.image {
+  &__container {
+    padding: 32px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 4px;
+  }
+}
