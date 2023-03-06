@@ -11,3 +11,6 @@ npm run preview
 
 run lint
 npm run lint
+
+open on: http://localhost:5173/home
+for dev env
