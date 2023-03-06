@@ -29,22 +29,18 @@ export const Description = ({ product }) => {
             <li className="txt"> CPU - {cpu || "No disponible"}</li>
             <li className="txt"> Memoria RAM - {ram || "No disponible"}</li>
             <li className="txt">
-              {" "}
               Sistema operativo - {os || "No disponible"}
             </li>
             <li className="txt">
               Resolución de pantalla - {displayResolution || "No disponible"}
             </li>
             <li className="txt">
-              {" "}
               Capacidad de batería - {battery || "No disponible"}
             </li>
             <li className="txt">
-              {" "}
               Cámara principal - {primaryCamera || "No disponible"}
             </li>
             <li className="txt">
-              {" "}
               Cámara secundaria - {secondaryCmera || "No disponible"}
             </li>
             <li className="txt"> Tamaño - {dimentions || "No disponible"}</li>

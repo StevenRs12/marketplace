@@ -1,8 +1,10 @@
 import { useEffect, useState } from "react";
+
 import { Search } from "../../shared/components/Search/Search";
 import { CardProduct } from "../../shared/components/CardProduct/CardProduct";
 import { Loader } from "../../shared/components/Loader/Loader";
 import { useFetchMarketplace } from "../../shared/hooks/useFetchProducts";
+
 import "./HomePage.scss";
 
 export const HomePage = () => {

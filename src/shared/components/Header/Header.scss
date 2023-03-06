@@ -18,5 +18,16 @@
       border-radius: 10px;
       cursor: pointer;
     }
+    .value-on-car {
+      color: white;
+      font-size: 19px;
+      position: relative;
+      left: -10px;
+      font-weight: bolder;
+      background-color: red;
+      border-radius: 50%;
+      width: 27px;
+      text-align: center;
+    }
   }
 }

@@ -14,3 +14,9 @@ input {
   border: 1px solid #000072;
   border-radius: 4px;
 }
+
+button {
+  padding: 8px;
+  margin: 16px;
+  font-weight: bold;
+}
